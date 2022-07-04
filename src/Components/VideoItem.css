@@ -1,0 +1,13 @@
+.video-item{
+    display: flex !important;
+    align-items: center;
+    cursor: pointer;
+}
+
+.video-item.item img{
+    max-width: 180px;
+}
+.header{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+}
